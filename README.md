@@ -1,2 +1,2 @@
 # LangGraph SETUP (from langchain academy)
-## + Local LLama3.2 rag setup
+## + Local LLama3.2-3b rag setup
